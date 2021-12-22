@@ -1,3 +1,4 @@
+USE Company;
 -- 1.Επιλογή Πεδίων απο πίνακα - Συγκρίσεις
 -- ***  1. Να βρεθεί το επώνυμο και το όνομα όλων των υπαλλήλων
 SELECT firstname, lastname FROM employees;
